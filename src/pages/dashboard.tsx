@@ -1,6 +1,6 @@
 // src/pages/dashboard.tsx
 import { useState } from 'react'
-import { PlusCircle, Calendar, Clock, Flag } from 'lucide-react'
+import { PlusCircle} from 'lucide-react'
 
 interface Task {
   id: string

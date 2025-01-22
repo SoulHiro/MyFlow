@@ -4,10 +4,7 @@ import {
   Calendar, 
   Clock, 
   Plus, 
-  Edit2, 
-  Trash2, 
-  Tag,
-  AlertCircle
+  Trash2,
 } from 'lucide-react'
 
 interface ScheduleItem {
